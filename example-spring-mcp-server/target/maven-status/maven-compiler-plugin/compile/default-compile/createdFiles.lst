@@ -1,0 +1,3 @@
+com\example\hermesmcp\controller\McpController.class
+com\example\hermesmcp\McpServerApplication.class
+com\example\hermesmcp\service\McpToolService.class

@@ -1,0 +1,8 @@
+com\example\hermesclient\config\WebClientConfig.class
+com\example\hermesclient\HermesClientApplication.class
+com\example\hermesclient\config\RestTemplateConfig.class
+com\example\hermesclient\service\HermesWebClientService.class
+com\example\hermesclient\dto\HermesPromptRequest.class
+com\example\hermesclient\dto\WebhookEventRequest.class
+com\example\hermesclient\controller\HermesDemoController.class
+com\example\hermesclient\service\HermesApiService.class

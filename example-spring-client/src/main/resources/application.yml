@@ -1,0 +1,12 @@
+server:
+  # 示例客户端自己的 HTTP 端口。
+  port: 8080
+
+hermes:
+  # Hermes API Server 基础地址。
+  # 这里默认使用 OpenAI 兼容接口前缀 /v1。
+  base-url: http://127.0.0.1:8642/v1
+
+  # 发送给 Hermes 的模型名。
+  # 示例里保留最简单配置，真实项目里可以改成团队统一约定的模型名。
+  model: hermes

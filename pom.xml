@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.example</groupId>
+    <artifactId>hermes-spring-learning-parent</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <name>hermes-spring-learning-parent</name>
+    <description>Aggregator project for Hermes + Spring Boot learning modules</description>
+
+    <modules>
+        <module>example-spring-client</module>
+        <module>example-spring-mcp-server</module>
+        <module>example-spring-integration-modes</module>
+    </modules>
+</project>

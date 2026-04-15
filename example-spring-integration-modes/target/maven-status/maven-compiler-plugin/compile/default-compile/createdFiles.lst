@@ -1,0 +1,10 @@
+com\example\hermesintegrationmodes\controller\HermesIntegrationController.class
+com\example\hermesintegrationmodes\config\RestTemplateConfig.class
+com\example\hermesintegrationmodes\config\WebClientConfig.class
+com\example\hermesintegrationmodes\HermesIntegrationModesApplication.class
+com\example\hermesintegrationmodes\dto\WebhookForwardRequest.class
+com\example\hermesintegrationmodes\controller\HermesMcpController.class
+com\example\hermesintegrationmodes\dto\ApiChatRequest.class
+com\example\hermesintegrationmodes\service\HermesWebhookService.class
+com\example\hermesintegrationmodes\service\HermesApiServerService.class
+com\example\hermesintegrationmodes\service\HermesMcpToolService.class

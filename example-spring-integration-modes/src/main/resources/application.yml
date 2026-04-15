@@ -1,0 +1,18 @@
+server:
+  # 当前示例模块的本地端口。
+  # 这个模块既包含“Spring Boot -> Hermes”的演示接口，也包含“Spring Boot 作为 MCP 服务”的入口。
+  port: 8092
+
+spring:
+  application:
+    # 应用名只用于演示和日志识别。
+    name: example-spring-integration-modes
+
+hermes:
+  # Hermes API Server 的基础地址。
+  # 默认按本地演示环境填写，可按需要改成远端地址。
+  api-base-url: http://127.0.0.1:8642/v1
+
+  # Hermes Webhook 的基础地址。
+  # 注意这里通常不带 /webhooks，由服务里按 routeName 拼接。
+  webhook-base-url: http://127.0.0.1:8644

@@ -1,0 +1,4 @@
+server:
+  # MCP 示例服务对外暴露的 HTTP 端口。
+  # Hermes 如果通过 HTTP 方式接这个示例服务，最终会访问这个端口。
+  port: 8090

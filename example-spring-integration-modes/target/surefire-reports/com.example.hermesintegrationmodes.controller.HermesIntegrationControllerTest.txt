@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.hermesintegrationmodes.controller.HermesIntegrationControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.802 s -- in com.example.hermesintegrationmodes.controller.HermesIntegrationControllerTest
